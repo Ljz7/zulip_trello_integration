@@ -1,6 +1,6 @@
 # Easy Trello integration for Zulip
 
-Bash script for a simplest Trello integration in Zulip
+Bash script for a simpler Trello integration in Zulip
 
 Usage : 
 
