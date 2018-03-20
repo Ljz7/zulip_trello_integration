@@ -4,7 +4,7 @@ Bash script for a simpler Trello integration in Zulip
 
 Usage : 
 
-1. Fill the needed informations in `zulip_trello_webhook.sh` :
+1. Fill the needed information in `zulip_trello_webhook.sh` :
 
     - The bot API KEY,
     - The Trello API KEY,
